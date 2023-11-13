@@ -1,13 +1,13 @@
 # attendanceTracker
 
 Step 0: Setup (only need to do the first time)
-![alt text](https://github.com/brightcandlelight/attendanceTracker/blob/main/images/step0.png?raw=true)
-![alt text](https://github.com/brightcandlelight/attendanceTracker/blob/main/images/step0b.png?raw=true)
-![alt text](https://github.com/brightcandlelight/attendanceTracker/blob/main/images/step0a.png?raw=true)
 download the zip. Unzip it.
+![alt text](https://github.com/brightcandlelight/attendanceTracker/blob/main/images/step0.png?raw=true)
 Install nodejs
+![alt text](https://github.com/brightcandlelight/attendanceTracker/blob/main/images/step0b.png?raw=true)
 In the folder, get to the command prompt or powershell
 Type "npm install" and hit enter.
+![alt text](https://github.com/brightcandlelight/attendanceTracker/blob/main/images/step0a.png?raw=true)
 
 Step 1:
 Add attendance
